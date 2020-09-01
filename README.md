@@ -28,10 +28,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Package using electron-packager
 
-Run 'npm install electron-packager -g' and 'npm install electron-packager --save-dev' to install or update to the latest packager for electron.
+Run `npm install electron-packager -g` and `npm install electron-packager --save-dev` to install or update to the latest packager for electron.
 
-To package the most recent build, run 'electron-packager . --platform={PLATFORM_NAME}'.
+To package the most recent build, run `electron-packager . --platform={PLATFORM_NAME}`.
 
 Platforms list:
-* Windows - 'win32'
-* MacOS - 'darwin'
+* Windows - `win32`
+* MacOS - `darwin`
